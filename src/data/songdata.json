@@ -1,0 +1,654 @@
+{
+  "songs": [
+    {
+      "name": "Oko",
+      "artist": "Sefa",
+      "duracion": [
+        4,
+        20
+      ],
+      "genre": [
+        "Frenchcore"
+      ],
+      "single": false,
+      "repros": 58205
+    },
+    {
+      "name": "Tourdion",
+      "artist": "Sefa",
+      "duracion": [
+        3,
+        12
+      ],
+      "genre": [
+        "Frenchcore"
+      ],
+      "single": false,
+      "repros": 68500
+    },
+    {
+      "name": "Keelhauled",
+      "artist": "Sefa",
+      "duracion": [
+        3,
+        13
+      ],
+      "genre": [
+        "Frenchcore"
+      ],
+      "single": false,
+      "repros": 56571
+    },
+    {
+      "name": "Sunrise",
+      "artist": "Sefa",
+      "duracion": [
+        3,
+        7
+      ],
+      "genre": [
+        "Frenchcore"
+      ],
+      "single": false,
+      "repros": 77848
+    },
+    {
+      "name": "Nobody Said It Was Easy",
+      "artist": "Evil Activities",
+      "duracion": [
+        4,
+        29
+      ],
+      "genre": [
+        "Frenchcore"
+      ],
+      "single": false,
+      "repros": 270601
+    },
+    {
+      "name": "Lunedi",
+      "artist": "Suite Soprano",
+      "duracion": [
+        4,
+        57
+      ],
+      "genre": [
+        "Rap"
+      ],
+      "single": false,
+      "repros": 1195020
+    },
+    {
+      "name": "Internacional",
+      "artist": "Suite Soprano",
+      "duracion": [
+        2,
+        50
+      ],
+      "genre": [
+        "Rap"
+      ],
+      "single": false,
+      "repros": 1665017
+    },
+    {
+      "name": "Sabor a Nada",
+      "artist": "Suite Soprano",
+      "duracion": [
+        3,
+        32
+      ],
+      "genre": [
+        "Rap"
+      ],
+      "single": false,
+      "repros": 1805165
+    },
+    {
+      "name": "Love",
+      "artist": "Juancho Marques",
+      "duracion": [
+        3,
+        39
+      ],
+      "genre": [
+        "Rap"
+      ],
+      "single": true,
+      "repros": 4345044
+    },
+    {
+      "name": "2000 Clavos",
+      "artist": "Hard GZ",
+      "duracion": [
+        3,
+        18
+      ],
+      "genre": [
+        "Rap"
+      ],
+      "single": true,
+      "repros": 2179380
+    },
+    {
+      "name": "El Padrino",
+      "artist": "Feid",
+      "duracion": [
+        2,
+        48
+      ],
+      "genre": [
+        "Reggaeton"
+      ],
+      "single": false,
+      "repros": 6700564
+    },
+    {
+      "name": "Si Tu Supieras",
+      "artist": "Feid",
+      "duracion": [
+        3,
+        39
+      ],
+      "genre": [
+        "Reggaeton"
+      ],
+      "single": false,
+      "repros": 62990136
+    },
+    {
+      "name": "Fumeteo",
+      "artist": "Feid",
+      "duracion": [
+        2,
+        14
+      ],
+      "genre": [
+        "Reggaeton"
+      ],
+      "single": false,
+      "repros": 22951659
+    },
+    {
+      "name": "Amor de mi Vida",
+      "artist": "Feid",
+      "duracion": [
+        3,
+        9
+      ],
+      "genre": [
+        "Reggaeton"
+      ],
+      "single": false,
+      "repros": 15963487
+    },
+    {
+      "name": "Vacaxiones",
+      "artist": "Feid",
+      "duracion": [
+        3,
+        6
+      ],
+      "genre": [
+        "Reggaeton"
+      ],
+      "single": false,
+      "repros": 42307103
+    },
+    {
+      "name": "Monastery",
+      "artist": "Feid",
+      "duracion": [
+        3,
+        30
+      ],
+      "genre": [
+        "Reggaeton"
+      ],
+      "single": false,
+      "repros": 65763200
+    },
+    {
+      "name": "A New Day",
+      "artist": "Phuture Noize",
+      "duracion": [
+        3,
+        23
+      ],
+      "genre": [
+        "Hardstyle"
+      ],
+      "single": false,
+      "repros": 4369565
+    },
+    {
+      "name": "Edge of Glory",
+      "artist": "Phuture Noize",
+      "duracion": [
+        3,
+        30
+      ],
+      "genre": [
+        "Hardstyle"
+      ],
+      "single": false,
+      "repros": 30145698
+    },
+    {
+      "name": "Fire",
+      "artist": "Phuture Noize",
+      "duracion": [
+        3,
+        27
+      ],
+      "genre": [
+        "Hardstyle"
+      ],
+      "single": true,
+      "repros": 10569874
+    },
+    {
+      "name": "One Tribe",
+      "artist": "Phuture Noize",
+      "duracion": [
+        4,
+        23
+      ],
+      "genre": [
+        "Hardstyle"
+      ],
+      "single": true,
+      "repros": 3659874
+    },
+    {
+      "name": "Masquerade",
+      "artist": "Phuture Noize",
+      "duracion": [
+        3,
+        3
+      ],
+      "genre": [
+        "Hardstyle"
+      ],
+      "single": true,
+      "repros": 6935698
+    },
+    {
+      "name": "Watercolour",
+      "artist": "Pendulum",
+      "duracion": [
+        5,
+        4
+      ],
+      "genre": [
+        "Drum and Bass"
+      ],
+      "single": false,
+      "repros": 68474653
+    },
+    {
+      "name": "Crush",
+      "artist": "Pendulum",
+      "duracion": [
+        4,
+        13
+      ],
+      "genre": [
+        "Drum and Bass"
+      ],
+      "single": false,
+      "repros": 21165498
+    },
+    {
+      "name": "The Island",
+      "artist": "Pendulum",
+      "duracion": [
+        5,
+        20
+      ],
+      "genre": [
+        "Drum and Bass"
+      ],
+      "single": false,
+      "repros": 51122659
+    },
+    {
+      "name": "Witchcraft",
+      "artist": "Pendulum",
+      "duracion": [
+        4,
+        12
+      ],
+      "genre": [
+        "Drum and Bass"
+      ],
+      "single": false,
+      "repros": 78698409
+    },
+    {
+      "name": "Set Me On Fire",
+      "artist": "Pendulum",
+      "duracion": [
+        5,
+        2
+      ],
+      "genre": [
+        "Drum and Bass"
+      ],
+      "single": false,
+      "repros": 9610393
+    },
+    {
+      "name": "Chance",
+      "artist": "Paulo Londra",
+      "duracion": [
+        3,
+        24
+      ],
+      "genre": [
+        "Trap"
+      ],
+      "single": true,
+      "repros": 7610393
+    },
+    {
+      "name": "Plan A",
+      "artist": "Paulo Londra",
+      "duracion": [
+        2,
+        58
+      ],
+      "genre": [
+        "Trap"
+      ],
+      "single": true,
+      "repros": 67952135
+    },
+    {
+      "name": "Si Te Sentis Sola",
+      "artist": "Duki",
+      "duracion": [
+        2,
+        58
+      ],
+      "genre": [
+        "Trap"
+      ],
+      "single": true,
+      "repros": 62432535
+    },
+    {
+      "name": "Goteo",
+      "artist": "Duki",
+      "duracion": [
+        2,
+        44
+      ],
+      "genre": [
+        "Trap"
+      ],
+      "single": true,
+      "repros": 202656660
+    },
+    {
+      "name": "Midtown",
+      "artist": "Duki",
+      "duracion": [
+        3,
+        25
+      ],
+      "genre": [
+        "Trap"
+      ],
+      "single": true,
+      "repros": 17499321
+    },
+    {
+      "name": "Rockstar",
+      "artist": "Duki",
+      "duracion": [
+        1,
+        52
+      ],
+      "genre": [
+        "Trap"
+      ],
+      "single": true,
+      "repros": 82437342
+    },
+    {
+      "name": "Crawling",
+      "artist": "Linkin Park",
+      "duracion": [
+        3,
+        29
+      ],
+      "genre": [
+        "Rock"
+      ],
+      "single": false,
+      "repros": 331365987
+    },
+    {
+      "name": "In The End",
+      "artist": "Linkin Park",
+      "duracion": [
+        3,
+        36
+      ],
+      "genre": [
+        "Rock"
+      ],
+      "single": false,
+      "repros": 1218219108
+    },
+    {
+      "name": "One Step Closer",
+      "artist": "Linkin Park",
+      "duracion": [
+        2,
+        37
+      ],
+      "genre": [
+        "Rock"
+      ],
+      "single": false,
+      "repros": 366575739
+    },
+    {
+      "name": "American Idiot",
+      "artist": "Green Day",
+      "duracion": [
+        2,
+        56
+      ],
+      "genre": [
+        "Rock"
+      ],
+      "single": false,
+      "repros": 603458975
+    },
+    {
+      "name": "Wake Me Up When September Ends",
+      "artist": "Green Day",
+      "duracion": [
+        4,
+        45
+      ],
+      "genre": [
+        "Rock"
+      ],
+      "single": false,
+      "repros": 495265897
+    },
+    {
+      "name": "Born To Be Slytherin",
+      "artist": "Viper Diva",
+      "duracion": [
+        6,
+        37
+      ],
+      "genre": [
+        "HardTechno"
+      ],
+      "single": true,
+      "repros": 1569356
+    },
+    {
+      "name": "Hold Me Back",
+      "artist": "Viper Diva",
+      "duracion": [
+        5,
+        47
+      ],
+      "genre": [
+        "HardTechno"
+      ],
+      "single": true,
+      "repros": 436987
+    },
+    {
+      "name": "Alice",
+      "artist": "Viper Diva",
+      "duracion": [
+        6,
+        58
+      ],
+      "genre": [
+        "HardTechno"
+      ],
+      "single": true,
+      "repros": 489477
+    },
+    {
+      "name": "Facil",
+      "artist": "Viper Diva",
+      "duracion": [
+        4,
+        44
+      ],
+      "genre": [
+        "Pop"
+      ],
+      "single": true,
+      "repros": 8659356
+    },
+    {
+      "name": "El Ultimo Dia",
+      "artist": "Viper Diva",
+      "duracion": [
+        4,
+        3
+      ],
+      "genre": [
+        "Pop"
+      ],
+      "single": true,
+      "repros": 3951233
+    },
+    {
+      "name": "Buscando El Sol",
+      "artist": "David Otero",
+      "duracion": [
+        4,
+        14
+      ],
+      "genre": [
+        "Pop"
+      ],
+      "single": true,
+      "repros": 11569874
+    },
+    {
+      "name": "Castillo De Arena",
+      "artist": "David Otero",
+      "duracion": [
+        3,
+        48
+      ],
+      "genre": [
+        "Pop"
+      ],
+      "single": true,
+      "repros": 5863956
+    },
+    {
+      "name": "Imitadora",
+      "artist": "Romeo Santos",
+      "duracion": [
+        3,
+        54
+      ],
+      "genre": [
+        "Bachata"
+      ],
+      "single": true,
+      "repros": 278956214
+    },
+    {
+      "name": "Eres Mia",
+      "artist": "Romeo Santos",
+      "duracion": [
+        4,
+        10
+      ],
+      "genre": [
+        "Bachata"
+      ],
+      "single": false,
+      "repros": 331065987
+    },
+    {
+      "name": "Inocente",
+      "artist": "Romeo Santos",
+      "duracion": [
+        3,
+        56
+      ],
+      "genre": [
+        "Bachata"
+      ],
+      "single": false,
+      "repros": 98626598
+    },
+    {
+      "name": "Necio",
+      "artist": "Romeo Santos",
+      "duracion": [
+        4,
+        24
+      ],
+      "genre": [
+        "Bachata"
+      ],
+      "single": false,
+      "repros": 155564413
+    },
+    {
+      "name": "Odio",
+      "artist": "Romeo Santos",
+      "duracion": [
+        3,
+        45
+      ],
+      "genre": [
+        "Bachata"
+      ],
+      "single": false,
+      "repros": 273512531
+    },
+    {
+      "name": "Propuesta Indecente",
+      "artist": "Romeo Santos",
+      "duracion": [
+        3,
+        55
+      ],
+      "genre": [
+        "Bachata"
+      ],
+      "single": false,
+      "repros": 475413408
+    }
+  ]
+}

@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "tsc-watch --onSuccess \"node dist/gestor.js\"",
+    "gestor": "tsc-watch --onSuccess \"node dist/gestor.js\"",
+    "Playlistjson": "tsc-watch --onSuccess \"node dist/lowdbdata/jsonPlaylist.js\"",
+    "Songjson": "tsc-watch --onSuccess \"node dist/lowdbdata/jsonSong.js\"",
     "doc": "typedoc",
     "test": "mocha",
     "coverage": "nyc npm test && nyc report --reporter=lcov"
@@ -39,7 +41,6 @@
   },
   "dependencies": {
     "inquirer": "^8.2.2",
-    "lowdb": "^3.0.0",
-    "react-scripts": "^5.0.1"
+    "lowdb": "^1.0.0"
   }
 }

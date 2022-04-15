@@ -1,5 +1,11 @@
 {
     "entryPoints": [
+        "./src/clases/album.ts",
+        "./src/clases/artist.ts",
+        "./src/clases/genre.ts",
+        "./src/clases/group.ts",
+        "./src/clases/playlist.ts",
+        "./src/clases/song.ts"
     ],
     "out": "./docs"
 }

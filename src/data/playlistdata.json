@@ -1,0 +1,110 @@
+{
+  "playlist": [
+    {
+      "name": "Rave",
+      "genres": [
+        "Frenchcore",
+        "Drum and Bass",
+        "HardTechno",
+        "Hardstyle"
+      ],
+      "songs": [
+        "Oko",
+        "Tourdion",
+        "Keelhauled",
+        "Sunrise",
+        "Nobody Said It Was Easy",
+        "A New Day",
+        "Edge of Glory",
+        "Fire",
+        "One Tribe",
+        "Masquerade",
+        "Watercolour",
+        "Crush",
+        "The Island",
+        "Witchcraft",
+        "Set Me On Fire",
+        "Born To Be Slytherin",
+        "Hold Me Back",
+        "Alice"
+      ],
+      "duracion": 4760
+    },
+    {
+      "name": "Clasica",
+      "genres": [
+        "Frenchcore",
+        "Drum and Bass",
+        "HardTechno",
+        "Hardstyle"
+      ],
+      "songs": [
+        "Oko",
+        "Tourdion",
+        "Keelhauled",
+        "Sunrise",
+        "Nobody Said It Was Easy",
+        "A New Day",
+        "Edge of Glory",
+        "Fire",
+        "One Tribe",
+        "Masquerade",
+        "Watercolour",
+        "Crush",
+        "The Island",
+        "Witchcraft",
+        "Set Me On Fire",
+        "Born To Be Slytherin",
+        "Hold Me Back",
+        "Alice"
+      ],
+      "duracion": 4760
+    },
+    {
+      "name": "Pop",
+      "genres": [
+        "Frenchcore",
+        "Drum and Bass",
+        "HardTechno",
+        "Hardstyle"
+      ],
+      "songs": [
+        "Oko",
+        "Tourdion",
+        "Keelhauled",
+        "Sunrise",
+        "Nobody Said It Was Easy",
+        "A New Day",
+        "Edge of Glory",
+        "Fire",
+        "One Tribe",
+        "Masquerade",
+        "Watercolour",
+        "Crush",
+        "The Island",
+        "Witchcraft",
+        "Set Me On Fire",
+        "Born To Be Slytherin",
+        "Hold Me Back",
+        "Alice"
+      ],
+      "duracion": 4760
+    }
+  ],
+  "UserPlaylist": [
+    {
+      "name": "pepaa",
+      "genres": [
+        "Frenchcore"
+      ],
+      "songs": [
+        "Oko",
+        "Tourdion",
+        "Keelhauled",
+        "Sunrise",
+        "Nobody Said It Was Easy"
+      ],
+      "duracion": 1101
+    }
+  ]
+}
